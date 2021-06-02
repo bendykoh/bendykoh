@@ -26,7 +26,7 @@ I have a degree in Material Science and Engineering and planning to move into da
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
-[Extra Curricular](#extracurricular) <br> 
+[Extra Curricular](#extra curricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
