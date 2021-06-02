@@ -84,10 +84,10 @@ Regression is a supervised learning technique which helps in finding the correla
 Machine Learning by Columbia University
 
 ##### Achievements
-Star performer of the year at Accenture
+Top 10 Learners in BCG RISE Business and Data Analysis - Wave 02 Hackathon
 <!-- FEATURED Section Ends -->
 
-#### ExtraCurricular
+## ExtraCurricular
 RISE BCG HACKATHON <br>
 RISE BCG CAPSTONE
 
