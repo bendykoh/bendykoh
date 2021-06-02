@@ -26,7 +26,7 @@ I have a degree in Material Science and Engineering and planning to move into da
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
-[Extra_Curricular](#extracurricular) <br> 
+[ExtraCurricular](#extracurricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -87,7 +87,7 @@ Machine Learning by Columbia University
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
 
-#### Extra_Curricular
+#### ExtraCurricular
 RISE BCG HACKATHON <br>
 RISE BCG CAPSTONE
 
