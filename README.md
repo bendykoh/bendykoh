@@ -47,8 +47,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Nanyang Technological University
+Material Science and Engineering, 2008-2012
 
 <!-- EDUCATION Section Ends -->
 
@@ -88,7 +88,7 @@ Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
 
 #### Extra Curricular
-RISE BCG HACKATHON
+RISE BCG HACKATHON <br>
 RISE BCG CAPSTONE
 
 
